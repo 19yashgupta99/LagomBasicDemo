@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Documents/my_personal/LagomBasicDemo/HelloService-impl/src/main/scala/com/knoldus/hello/impl/HelloServiceImpl.scala:7:8: object ServiceUser is not a member of package com.knoldus.hello.api[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.knoldus.hello.api.{HelloService, ServiceUser}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
